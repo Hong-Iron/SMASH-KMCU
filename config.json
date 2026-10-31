@@ -1,0 +1,43 @@
+{
+  "code": "KMCU",
+  "title": "SMASH KMCU",
+  "school": "계명문화대",
+  "fullName": "계명문화대학교",
+  "campusName": "계명문화대학교",
+  "tagline": "계명문화대를 부셔 (시험기간 스트레스 해소)",
+  "description": "계명문화대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 계명문화대학교 3D 화면과 SMASH KMCU 제목",
+  "url": "https://hong-iron.github.io/SMASH-KMCU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 473848727
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.8587869,
+        128.4890496
+      ],
+      "n": "계명문화대학",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 서쪽 숲 너머 계명대 성서캠퍼스 쪽 건물로, 계명대 공대식당과 같은 땅(산51-1)에 있고 학교 공식 캠퍼스맵에도 없으며 이 학교의 복지관은 정문 옆 길가 건물이다."
+    }
+  ],
+  "look": {
+    "계명문화대학": {
+      "style": "brick",
+      "wall": "#dc9a78",
+      "glass": "#4b5763",
+      "frame": "#e6e2dc"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
